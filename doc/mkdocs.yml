@@ -1,6 +1,6 @@
 site_name: Combine Documentation 
 repo_name: GitHub
-repo_url: https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit
+repo_url: https://github.com/nucleosynthesis/CombineDocs
 edit_uri: edit/master/doc/docs
 
 nav: 
