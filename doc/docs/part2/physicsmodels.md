@@ -2,7 +2,7 @@
 
 Combine can be run directly on the text based datacard. However, for more advanced physics models, the internal step to convert the datacard to a binary workspace can be performed by the user. To create a binary workspace starting from a `datacard.txt`, just do 
 
-    text2workspace.py datacard.txt -o workspace.root
+    text2workspace.py datacard.txt -o workspace.root Quick Check!!!!!
 
 By default (without the `-o` option), the binary workspace will be named `datacard.root` - i.e the **.txt** suffix will be replaced by **.root**.
 
