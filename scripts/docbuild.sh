@@ -1,5 +1,6 @@
 #!/bin/bash 
 set -ev 
+cd doc
 mkdocs build 
-mv site/* .
+mv site/* ../
 rm -rf site 
