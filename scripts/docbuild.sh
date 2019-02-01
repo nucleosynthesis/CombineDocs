@@ -2,5 +2,5 @@
 set -ev 
 cd doc
 mkdocs build 
-cp site/* ../
+cp -r site/* ../
 rm -rf site 
